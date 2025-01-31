@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋 I'm Prabhjot Singh</h1>
 
-# 👋 About Me:
+# ♠️ About Me:
 I am forth-year software engineering student at McMaster University that is passionate about building scalable applications, machine learning and overall coding.
 
-## 🔌  What I'm Learning
+## 🔌 What I'm Learning
 
 - 💡 Expanding on Machine Learning with [SciKit-Learn] from our previous Co-op at CIBC (https://scikit-learn.org/)
 - 💻 Learning and building Spring Boot applications
