@@ -5,7 +5,7 @@ I am forth-year software engineering student at McMaster University that is pass
 
 ## 🔌 What I'm Learning
 
-- 💡 Expanding on Machine Learning with [SciKit-Learn] from our previous Co-op at CIBC (https://scikit-learn.org/)
+- 💡 Expanding on Machine Learning with [SciKit-Learn](https://scikit-learn.org/)
 - 💻 Learning and building Spring Boot applications
 
 Check out my [Coding Portfolio!] - 
