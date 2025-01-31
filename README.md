@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 I'm Prabhjot Singh</h1>
 
 # ♠️ About Me:
-I am forth-year software engineering student at McMaster University that is passionate about building scalable applications, machine learning and overall coding.
+I am forth-year software engineering student at McMaster University that is passionate about building scalable applications, machine learning and the world of coding.
 
 ## 🔌 What I'm Learning
 
